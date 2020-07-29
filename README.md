@@ -17,7 +17,7 @@ Currently, I go to Higher Polytechnical Institute to study computer science 💻
 
 [![website](https://img.shields.io/badge/Portfolio-https%3A%2F%2Froleyder.herokuapp.com%2F-blue)](https://roleyder.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="rolEYder" src="https://avatars0.githubusercontent.com/u/49726414?s=400&u=955d9d057a28cc34d4659c252b3dd5afb2f337f7&v=4" />
+<img align="right" height="375" width="375" alt="rolEYder" src="https://avatars0.githubusercontent.com/u/49726414?s=400&u=955d9d057a28cc34d4659c252b3dd5afb2f337f7&v=4" />
 
 ### Talking about Personal Stuffs:
 

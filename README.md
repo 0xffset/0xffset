@@ -23,7 +23,7 @@ Currently, I go to Higher Polytechnical Institute to study computer science 💻
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br />  Mongodb, Javascript, Python, Ethical Hacking, Mathematics, Cryptography, etc 💻.
 - 👨🏻‍💻 I’m currently learning Web Security and Ethical Hacking using Python 🚀.
-- 💬 Ask me about anything you whant [here](https://github.com/RolEYder/RolEYder/issues/2)! Always like to me help!.
+- 💬 Ask me about anything you whant [here](https://github.com/RolEYder/RolEYder/issues/)! Always like to me help!.
 - ⚡ Fun fact: I don't know cook 😊.
 - 📫 How to reach me: roggergarciadiaz@gmail.com
 

@@ -1,4 +1,4 @@
-## Hi! I'm Rogger! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi! I'm Rogger! 
 
 
 <a href="https://www.linkedin.com/in/rogger-garc%C3%ADa-d%C3%ADaz-5100a41b1/">

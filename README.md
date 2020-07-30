@@ -11,7 +11,7 @@
 
 <br />
 
-### How I Am 
+### How Am I
 I'm an enthusiastic software developer and machine learning entrepreneur 🤩. Motivated to build new things to make a better world  🤓.
 Currently, I go to Higher Polytechnical Institute to study computer science 💻. 
 

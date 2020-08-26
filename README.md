@@ -15,14 +15,13 @@
 I'm an enthusiastic software developer and machine learning entrepreneur 🤩. Motivated to build new things to make a better world  🤓.
 Currently, I go to Higher Polytechnical Institute to study computer science 💻. 
 
-[![website](https://img.shields.io/badge/Portfolio-https%3A%2F%2Froleyder.herokuapp.com%2F-blue)](https://roleyder.herokuapp.com/)
+
 
 <img align="right" height="375" width="375" alt="rolEYder" src="https://avatars0.githubusercontent.com/u/49726414?s=400&u=955d9d057a28cc34d4659c252b3dd5afb2f337f7&v=4" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br />  Mongodb, Javascript, Python, Ethical Hacking, Mathematics, Cryptography, etc 💻.
-- 👨🏻‍💻 I’m currently learning Web Security and Ethical Hacking using Python 🚀.
 - 💬 Ask me about anything you whant [here](https://github.com/RolEYder/RolEYder/issues/)! Always like to me help!.
 - ⚡ Fun fact: I don't know cook 😊.
 - 📫 How to reach me: roggergarciadiaz@gmail.com

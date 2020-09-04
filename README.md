@@ -16,6 +16,28 @@ I'm an enthusiastic software developer and machine learning entrepreneur 🤩. M
 Currently, I go to Higher Polytechnical Institute to study computer science 💻. 
 
 
+  ```c++
+// Fermat's last problem x^n+y^n=z^n
+#include <math.h>
+#include <cstdio>
+void  fermat(int n) {
+  for (int x = 0; x < 100; x++) {
+    for (int y = 0; y < x+1; y++ ) {
+      for (int z = 0; z < pow(x,n)+pow(y,n) + 1; z++) {
+        if (pow(x,n)+pow(y,n) == pow(z,n)) {
+          printf("(%d, %d, %d\n", x,y,z);
+        }
+      }
+    }
+  }
+}
+int main() {
+	fermat(5);
+	return 0;
+}
+
+```
+
 
 <img align="right" height="375" width="375" alt="rolEYder" src="https://avatars0.githubusercontent.com/u/49726414?s=400&u=955d9d057a28cc34d4659c252b3dd5afb2f337f7&v=4" />
 

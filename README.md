@@ -62,7 +62,6 @@ int main() {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=roleyder&show_icons=true&hide_border=true)
 
 #
 

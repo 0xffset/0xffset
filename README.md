@@ -2,10 +2,10 @@
 
 
 <a href="https://www.linkedin.com/in/rogger-garc%C3%ADa-d%C3%ADaz-5100a41b1/">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rogger's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/RolEYder/">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rogger's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
@@ -13,7 +13,7 @@
 
 ### How Am I
 I'm an enthusiastic software developer and machine learning entrepreneur 🤩. Motivated to build new things to make a better world  🤓.
-Currently, I go to Higher Polytechnical Institute to study computer science 💻. 
+Currently, I go to University to study computer science and mathematics 💻. 
 
 
   ```c++
@@ -25,7 +25,7 @@ void  fermat(int n) {
     for (int y = 0; y < x+1; y++ ) {
       for (int z = 0; z < pow(x,n)+pow(y,n) + 1; z++) {
         if (pow(x,n)+pow(y,n) == pow(z,n)) {
-          printf("(%d, %d, %d\n", x,y,z);
+          printf("%d, %d, %d\n", x,y,z);
         }
       }
     }
@@ -44,7 +44,6 @@ int main() {
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br />  Mongodb, Javascript, Python, Ethical Hacking, Mathematics, Cryptography, etc 💻.
-- 💬 Ask me about anything you whant [here](https://github.com/RolEYder/RolEYder/issues/)! Always like to me help!.
 - ⚡ Fun fact: I don't know cook 😊.
 - 📫 How to reach me: roggergarciadiaz@gmail.com
 

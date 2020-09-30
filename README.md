@@ -12,8 +12,7 @@
 <br />
 
 ### How Am I
-I'm an enthusiastic software developer and machine learning entrepreneur 🤩. Motivated to build new things to make a better world  🤓.
-Currently, I go to University to study computer science and mathematics 💻. 
+I'm a compuer science research and machine learning entrepreneur. Currently, I go to University to study computer science and mathematics 💻. 
 
 
   ```c++

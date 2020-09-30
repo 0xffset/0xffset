@@ -11,8 +11,8 @@
 
 <br />
 
-### How Am I
-I'm a compuer science research and machine learning entrepreneur. Currently, I go to University to study computer science and mathematics 💻. 
+
+#### I'm a compuer science research and machine learning entrepreneur. Currently, I go to University to study computer science and mathematics 💻. 
 
 
   ```c++

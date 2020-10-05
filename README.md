@@ -38,7 +38,6 @@ int main() {
 ```
 
 
-<img align="right" height="375" width="375" alt="rolEYder" src="https://avatars0.githubusercontent.com/u/49726414?s=400&u=955d9d057a28cc34d4659c252b3dd5afb2f337f7&v=4" />
 
 ### Talking about Personal Stuffs:
 
@@ -61,10 +60,4 @@ int main() {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
-#
 
-<div align="center">
-
-### Remember _> Make things always!
-
-</div>

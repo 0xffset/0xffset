@@ -15,25 +15,27 @@
 #### I'm a compuer science research and machine learning entrepreneur. Currently, I go to University to study computer science and mathematics 💻. 
 
 
-  ```c++
+  ```perl
 // Fermat's last problem x^n+y^n=z^n
-#include <math.h>
-#include <cstdio>
-void  fermat(int n) {
-  for (int x = 0; x < 100; x++) {
-    for (int y = 0; y < x+1; y++ ) {
-      for (int z = 0; z < pow(x,n)+pow(y,n) + 1; z++) {
-        if (pow(x,n)+pow(y,n) == pow(z,n)) {
-          printf("%d, %d, %d\n", x,y,z);
-        }
-      }
-    }
-  }
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+sub fermat {
+	my ($n) = @_;
+	for (my $x = 0; $x < 100; $x++) {
+		for (my $y = 0; $y < $x+1; $y++) {
+			for (my $z = 0; $z < ($x**$n)+($y**$n) +1; $z++) {
+				if (($x**$n)+($y**$n) == ($z**$n)) {
+					print "$x^$n + $y^$n == $z^$n\n";		
+					}
+				}
+			} 
+	}
 }
-int main() {
-	fermat(5);
-	return 0;
-}
+
+my $e = fermat(5);
+
 
 ```
 

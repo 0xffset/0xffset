@@ -1,18 +1,12 @@
 ## Hi! I'm Rogger! 
 
 
-<a href="https://www.linkedin.com/in/rogger-garc%C3%ADa-d%C3%ADaz-5100a41b1/">
-  <img align="left" alt="Rogger's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/RolEYder/">
-  <img align="left" alt="Rogger's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 
 <br />
 
 
-#### I'm a compuer science research and machine learning entrepreneur. Currently, I go to University to study computer science and mathematics 💻. 
+#### I'm a Compuer Science Research and Mchine Learning Entrepreneur. Currently, I go to University to Study Computer Science and Mathematics. 
 
 
   ```perl

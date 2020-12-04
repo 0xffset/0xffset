@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=0xffset&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xffset&theme=slateorange&count_private=true&layout=compact" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xffset&theme=slateorange&count_private=true&layout=default" /></a>
 </div>
 
 

@@ -1,5 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xffset&theme=slateorange&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xffset&theme=slateorange&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=0xffset&theme=slateorange&count_private=true&show_icons=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xffset&theme=slateorange&count_private=true&layout=compact" /></a>
+</div>
 
 
 <!--

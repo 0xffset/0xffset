@@ -37,7 +37,7 @@ my $e = fermat(5);
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br />  Mongodb, Javascript, C/C++, Python, Ethical Hacking, Mathematics, Cryptography, etc 💻.
+- 🛠 I’m currently working with  C/C++, Python, Ethical Hacking, Mathematics and Cryptography 💻.
 - ⚡ Fun fact: I don't know cook 😊.
 - 📫 How to reach me: roggergarciadiaz@gmail.com
 

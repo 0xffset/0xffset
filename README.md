@@ -6,7 +6,7 @@
 <br />
 
 
-#### I'm a Compuer Science Student and Mchine Learning Entrepreneur. Currently, I go to University to Study Computer Science and Mathematics. 
+#### I'm a Compuer Science Student and Cybersecurity and Machine Learning Entrepreneur . Currently, I go to University to Study Computer Science and Mathematics. 
 
 
   ```perl

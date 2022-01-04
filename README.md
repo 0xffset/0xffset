@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-  19y/o Self-taught computer research with an interest in branches like Cybersecurity, Quantum Computing, and Mathematics.
+  20y/o Self-taught computer research with an interest in branches like Cybersecurity, Quantum Computing, and Mathematics.
   </em> 
   <br>
 </p>

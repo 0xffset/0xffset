@@ -49,8 +49,14 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
+<<<<<<< HEAD
 > It is through science that we prove, but through intuition that we discover.
 >
 > *Henri Poincaré*
+=======
+> Great ideas often receive violent opposition from mediocre minds.
+>
+> *Albert Einstein*
+>>>>>>> 91a802e3c14d56be349ddbfe884cea6f5e8c8160
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>

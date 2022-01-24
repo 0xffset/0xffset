@@ -37,8 +37,7 @@ async function loadEquations() {
     const values = Object.values(EQUATIONS)
     const randValue = values[parseInt(Math.random() * values.length)];
     const latexEquation = randValue["latex"];
-    const buf = Buffer.from(latexEquation, 'base64');
-    DATA.latex = buf.toString('utf-8');
+    DATA.latex = decodeURI(latexEquation);
     DATA.nameEquation = randValue["nameEquation"]; 
 
 }

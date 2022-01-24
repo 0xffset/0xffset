@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,8 +39,8 @@ my $e = fermat(5);
 
 
 ```
-<p align="center">Cauchy&#39;s Integral Formula</p>
-<p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?f(a)&amp;space;&#x3D;&amp;space;\frac{1}{2\pi&amp;space;i}&amp;space;\oint&amp;space;\frac{f(1)}{z-a}dz&quot; title&#x3D;&quot;f(a) &#x3D; \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz&quot; &#x2F;&gt;</p>
+<p align="center">The Quadratic Formula</p>
+<p align="center">&lt;img src%3D&quot;https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Fx%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; title%3D&quot;x%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; %2F&gt;</p>
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
@@ -49,14 +49,8 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-<<<<<<< HEAD
-> It is through science that we prove, but through intuition that we discover.
->
-> *Henri Poincaré*
-=======
-> Great ideas often receive violent opposition from mediocre minds.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
 > *Albert Einstein*
->>>>>>> 91a802e3c14d56be349ddbfe884cea6f5e8c8160
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>

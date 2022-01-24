@@ -1,6 +1,7 @@
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
+const axios = require('axios');
 
 let greeting = ['Hello', 'Hola', 'Привет', 'Salam']
 
@@ -18,7 +19,16 @@ let DATA = {
     }),
 };
 
-function buildReadMe() {
+
+async function getQuotes() {
+    await axios.get('https://api.quotable.io/random?tags=technology,famous-quotes')
+    .then(r => {
+        DATA.quote = r.data.content,
+        DATA.quoteAuthor = r.data.author
+    });
+};
+
+async function buildReadMe() {
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data)=> {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
@@ -26,4 +36,25 @@ function buildReadMe() {
     });
 }
 
-buildReadMe();
+
+async function execute() {
+
+    /*
+     *
+     * Get Quotes
+     *
+     * */
+
+    await getQuotes();
+    
+    /*
+    *
+    * Generate README
+    *
+    **/
+    
+    await buildReadMe()
+
+}
+
+execute()

@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/RolEYder/RolEYder#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "axios": "^0.25.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.2.0"
   }
 }

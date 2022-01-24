@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,8 +39,8 @@ my $e = fermat(5);
 
 
 ```
-<p align="center">Cauchy&#39;s Integral Formula</p>
-<p align="center">&lt;img src%3D&quot;https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Ff(a)%26space%3B%3D%26space%3B\frac{1}{2\pi%26space%3Bi}%26space%3B\oint%26space%3B\frac{f(1)}{z-a}dz&quot; title%3D&quot;f(a) %3D \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz&quot; %2F&gt;</p>
+<p align="center">The Quadratic Formula</p>
+<p align="center">&lt;img src%3D&quot;https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Fx%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; title%3D&quot;x%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; %2F&gt;</p>
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**

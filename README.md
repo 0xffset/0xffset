@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,7 +39,8 @@ my $e = fermat(5);
 
 
 ```
-
+<p align="center">Cauchy&#39;s Integral Formula</p>
+<p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?f(a)&amp;space;&#x3D;&amp;space;\frac{1}{2\pi&amp;space;i}&amp;space;\oint&amp;space;\frac{f(1)}{z-a}dz&quot; title&#x3D;&quot;f(a) &#x3D; \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz&quot; &#x2F;&gt;</p>
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
@@ -48,7 +49,8 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
-> *Albert Einstein*
+> It is through science that we prove, but through intuition that we discover.
+>
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>

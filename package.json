@@ -1,0 +1,22 @@
+{
+  "name": "roleyder",
+  "version": "1.0.0",
+  "description": "README Github Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolEYder/RolEYder.git"
+  },
+  "author": "rolEYder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolEYder/RolEYder/issues"
+  },
+  "homepage": "https://github.com/RolEYder/RolEYder#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

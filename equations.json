@@ -1,11 +1,11 @@
 {
   
     "1": {
-      "latex": "%3Cimg%20src%3D%22https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Fx%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D%22%20title%3D%22x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D%22%20%2F%3E",
+      "latex": "f%28a%29%26space%3B%3D%26space%3B%5Cfrac%7B1%7D%7B2%5Cpi%26space%3Bi%7D%26space%3B%5Coint%26space%3B%5Cfrac%7Bf%281%29%7D%7Bz-a%7Ddz%22%20title%3D%22f%28a%29%20%3D%20%5Cfrac%7B1%7D%7B2%5Cpi%20i%7D%20%5Coint%20%5Cfrac%7Bf%281%29%7D%7Bz-a%7Dd",
       "nameEquation": "The Quadratic Formula"
     },
     "2": {
-      "latex": "%3Cimg%20src%3D%22https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Ff%28a%29%26space%3B%3D%26space%3B%5Cfrac%7B1%7D%7B2%5Cpi%26space%3Bi%7D%26space%3B%5Coint%26space%3B%5Cfrac%7Bf%281%29%7D%7Bz-a%7Ddz%22%20title%3D%22f%28a%29%20%3D%20%5Cfrac%7B1%7D%7B2%5Cpi%20i%7D%20%5Coint%20%5Cfrac%7Bf%281%29%7D%7Bz-a%7Ddz%22%20%2F%3E",
+      "latex": "f%28a%29%26space%3B%3D%26space%3B%5Cfrac%7B1%7D%7B2%5Cpi%26space%3Bi%7D%26space%3B%5Coint%26space%3B%5Cfrac%7Bf%281%29%7D%7Bz-a%7Ddz%22%20title%3D%22f%28a%29%20%3D%20%5Cfrac%7B1%7D%7B2%5Cpi%20i%7D%20%5Coint%20%5Cfrac%7Bf%281%29%7D%7Bz-a%7Dd",
       "nameEquation": "Cauchy's Integral Formula"
     
   }

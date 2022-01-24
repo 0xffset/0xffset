@@ -40,7 +40,11 @@ my $e = fermat(5);
 
 ```
 <p align="center">The Quadratic Formula</p>
+<<<<<<< HEAD
 <p align="center">&lt;img src%3D&quot;https%3A%2F%2Flatex.codecogs.com%2Fsvg.image%3Fx%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; title%3D&quot;x%3D\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; %2F&gt;</p>
+=======
+<p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?x&#x3D;\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; title&#x3D;&quot;x&#x3D;\frac{-b\pm\sqrt{b^2-4ac}}{2a}&quot; &#x2F;&gt;</p>
+>>>>>>> c5d2dd5ae5b3e7d2f40cb530e7a258562737e8d4
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
@@ -49,7 +53,11 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
+<<<<<<< HEAD
 > Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+=======
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+>>>>>>> c5d2dd5ae5b3e7d2f40cb530e7a258562737e8d4
 >
 > *Albert Einstein*
 

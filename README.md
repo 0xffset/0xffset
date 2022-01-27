@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,7 +39,7 @@ my $e = fermat(5);
 
 
 ```
-<p align="center">The Quadratic Formula</p>
+<p align="center">Cauchy&#39;s Integral Formula</p>
 <p align="center"><img src="https://latex.codecogs.com/svg.image?f(a)%26space%3B%3D%26space%3B\frac{1}{2\pi%26space%3Bi}%26space%3B\oint%26space%3B\frac{f(1)}{z-a}dz&quot; title%3D&quot;f(a) %3D \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}d" /></p>
 
 
@@ -49,7 +49,7 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

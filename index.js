@@ -7,6 +7,16 @@ const axios = require('axios');
 let rawEquations = fs.readFileSync('equations.json');
 let EQUATIONS = JSON.parse(rawEquations);
 
+let equations = {
+    1: {
+        name: "Cauchy's Integral Formula",
+        img: `<img src="https://latex.codecogs.com/svg.image?f(a)&space;=&space;\frac{1}{2\pi&space;i}&space;\oint&space;\frac{f(1)}{z-a}dz" title="f(a) = \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz" />`
+    },
+    2: {
+        name: "Cauchy's Integral Formula",
+        img: `<img src="https://latex.codecogs.com/svg.image?f(a)&space;=&space;\frac{1}{2\pi&space;i}&space;\oint&space;\frac{f(1)}{z-a}dz" title="f(a) = \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz" />`
+    }
+};
 
 let greeting = ['Hello', 'Hola', 'Привет', 'Salam']
 
@@ -34,11 +44,12 @@ async function getQuotes() {
 };
 
 async function loadEquations() {
-    const values = Object.values(EQUATIONS)
+    const values = Object.values(equations)
     const randValue = values[parseInt(Math.random() * values.length)];
-    const latexEquation = randValue["latex"];
-    DATA.latex = decodeURI(latexEquation);
-    DATA.nameEquation = randValue["nameEquation"]; 
+    const latexEquation = randValue["img"];
+    console.log(latexEquation);
+    DATA.latex = latexEquation.toString();
+    DATA.nameEquation = randValue["name"]; 
 
 }
 

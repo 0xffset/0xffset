@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -42,6 +42,9 @@ my $e = fermat(5);
 <p align="center">Cauchy&#39;s Integral Formula</p>
 <p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?f(a)&amp;space;&#x3D;&amp;space;rac{1}{2pi&amp;space;i}&amp;space;oint&amp;space;rac{f(1)}{z-a}dz&quot; title&#x3D;&quot;f(a) &#x3D; rac{1}{2pi i} oint rac{f(1)}{z-a}dz&quot; &#x2F;&gt;</p>
 
+```math
+D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
+```
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
 - 🌱 I’m currently learning **Linear Algebra** 
@@ -49,7 +52,7 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

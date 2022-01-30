@@ -42,6 +42,9 @@ my $e = fermat(5);
 <p align="center">Cauchy&#39;s Integral Formula</p>
 <p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?f(a)&amp;space;&#x3D;&amp;space;rac{1}{2pi&amp;space;i}&amp;space;oint&amp;space;rac{f(1)}{z-a}dz&quot; title&#x3D;&quot;f(a) &#x3D; rac{1}{2pi i} oint rac{f(1)}{z-a}dz&quot; &#x2F;&gt;</p>
 
+```math
+e^{i\pi} + 1 = 0
+```
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
 - 🌱 I’m currently learning **Linear Algebra** 

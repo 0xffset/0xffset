@@ -49,7 +49,7 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

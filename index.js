@@ -10,11 +10,11 @@ let EQUATIONS = JSON.parse(rawEquations);
 let equations = {
     1: {
         name: "Cauchy's Integral Formula",
-        img: `./images/equation1.gif`
+        img: "./images/equation1.gif"
     },
     2: {
         name: "Cauchy's Integral Formula",
-        img: `./images/equation1.gif`
+        img: "./images/equation1.gif"
     }
 };
 

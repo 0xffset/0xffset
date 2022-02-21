@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,13 +39,8 @@ my $e = fermat(5);
 
 
 ```
-<<<<<<< HEAD
 <p align="center">Cauchy's Integral Formula</p>
 <p align="center"><img src="./images/equation1.gif"/></p>
-=======
-<p align="center">Cauchy&#39;s Integral Formula</p>
-<p align="center">![Cauchy&#39;s Integral Formula](.&#x2F;images&#x2F;equation1.gif)</p>
->>>>>>> 672d854c41547bb1b8e7d558031fc272cc42df11
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
@@ -54,12 +49,8 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-<<<<<<< HEAD
-> It is through science that we prove, but through intuition that we discover.
-=======
 > Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
->>>>>>> 672d854c41547bb1b8e7d558031fc272cc42df11
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>

@@ -10,18 +10,18 @@ let EQUATIONS = JSON.parse(rawEquations);
 let equations = {
     1: {
         name: "Cauchy's Integral Formula",
-        img: `<img src="https://latex.codecogs.com/svg.image?f(a)&space;=&space;\frac{1}{2\pi&space;i}&space;\oint&space;\frac{f(1)}{z-a}dz" title="f(a) = \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz" />`
+        img: `./images/equation1.gif`
     },
     2: {
         name: "Cauchy's Integral Formula",
-        img: `<img src="https://latex.codecogs.com/svg.image?f(a)&space;=&space;\frac{1}{2\pi&space;i}&space;\oint&space;\frac{f(1)}{z-a}dz" title="f(a) = \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}dz" />`
+        img: `./images/equation1.gif`
     }
 };
 
 let greeting = ['Hello', 'Hola', 'Привет', 'Salam']
 
 let DATA = {
-    cheers: greeting[Math.floor(Math.random()*greeting.length)],
+    cheers: greeting[Math.floor(Math.random() * greeting.length)],
     name: 'rolEYder',
     date: new Date().toLocaleDateString('en-GB', {
         weekeday: 'long',
@@ -37,27 +37,26 @@ let DATA = {
 
 async function getQuotes() {
     await axios.get('https://api.quotable.io/random?tags=technology,famous-quotes')
-    .then(r => {
-        DATA.quote = r.data.content,
-        DATA.quoteAuthor = r.data.author
-    });
+        .then(r => {
+            DATA.quote = r.data.content,
+                DATA.quoteAuthor = r.data.author
+        });
 };
 
 async function loadEquations() {
     const values = Object.values(equations)
     const randValue = values[parseInt(Math.random() * values.length)];
     const latexEquation = randValue["img"];
-    console.log(latexEquation);
-    DATA.latex = latexEquation.toString();
-    DATA.nameEquation = randValue["name"]; 
+    DATA.latex = randValue["img"]
+    DATA.nameEquation = randValue["name"];
 
 }
 
 async function buildReadMe() {
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data)=> {
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
-        fs.writeFileSync('README.md', output); 
+        fs.writeFileSync('README.md', output);
     });
 }
 
@@ -69,7 +68,7 @@ async function execute() {
      * Build Equations
      *
      * */
-    
+
     await loadEquations();
 
     /*
@@ -79,13 +78,13 @@ async function execute() {
      * */
 
     await getQuotes();
-    
+
     /*
-    *
-    * Generate README
-    *
-    **/
-    
+     *
+     * Generate README
+     *
+     **/
+
     await buildReadMe()
 
 }

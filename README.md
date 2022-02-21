@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -40,11 +40,7 @@ my $e = fermat(5);
 
 ```
 <p align="center">Cauchy&#39;s Integral Formula</p>
-<<<<<<< HEAD
-<p align="center">&lt;img src&#x3D;&quot;https:&#x2F;&#x2F;latex.codecogs.com&#x2F;svg.image?f(a)&amp;space;&#x3D;&amp;space;rac{1}{2pi&amp;space;i}&amp;space;oint&amp;space;rac{f(1)}{z-a}dz&quot; title&#x3D;&quot;f(a) &#x3D; rac{1}{2pi i} oint rac{f(1)}{z-a}dz&quot; &#x2F;&gt;</p>
-=======
-<p align="center"><img src="https://latex.codecogs.com/svg.image?f(a)%26space%3B%3D%26space%3B\frac{1}{2\pi%26space%3Bi}%26space%3B\oint%26space%3B\frac{f(1)}{z-a}dz&quot; title%3D&quot;f(a) %3D \frac{1}{2\pi i} \oint \frac{f(1)}{z-a}d" /></p>
->>>>>>> 77e94cf6771d1c3bf3b8451944d01b23db109597
+<p align="center">![Cauchy&#39;s Integral Formula](.&#x2F;images&#x2F;equation1.gif)</p>
 
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
@@ -53,8 +49,8 @@ my $e = fermat(5);
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>

@@ -1,12 +1,12 @@
 {
-  
+
     "1": {
-      "latex": "%3Cimg%20src=%22https://latex.codecogs.com/svg.image?f(a)&space;=&space;%0Crac%7B1%7D%7B2pi&space;i%7D&space;oint&space;%0Crac%7Bf(1)%7D%7Bz-a%7Ddz%2522%2520title=%2522f(a)%2520=%2520%0Crac%7B1%7D%7B2pi%2520i%7D%2520oint%2520%0Crac%7Bf(1)%7D%7Bz-a%7Dd%22/%3E",
-      "nameEquation": "The Quadratic Formula"
+        "latex": "%3Cimg%20src=%22https://latex.codecogs.com/svg.image?f(a)&space;=&space;%0Crac%7B1%7D%7B2pi&space;i%7D&space;oint&space;%0Crac%7Bf(1)%7D%7Bz-a%7Ddz%2522%2520title=%2522f(a)%2520=%2520%0Crac%7B1%7D%7B2pi%2520i%7D%2520oint%2520%0Crac%7Bf(1)%7D%7Bz-a%7Dd%22/%3E",
+        "nameEquation": "The Quadratic Formula"
     },
     "2": {
-      "latex": "%3Cimg%20src=%22https://latex.codecogs.com/svg.image?f(a)&space;=&space;%0Crac%7B1%7D%7B2pi&space;i%7D&space;oint&space;%0Crac%7Bf(1)%7D%7Bz-a%7Ddz%2522%2520title=%2522f(a)%2520=%2520%0Crac%7B1%7D%7B2pi%2520i%7D%2520oint%2520%0Crac%7Bf(1)%7D%7Bz-a%7Dd%22/%3E",
-      "nameEquation": "Cauchy's Integral Formula"
-    
-  }
+        "latex": "./images/equation1.gif",
+        "nameEquation": "Cauchy's Integral Formula"
+
+    }
 }

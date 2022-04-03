@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -39,9 +39,11 @@ my $e = fermat(5);
 
 
 ```
-<p align="center">The Cardinality of the Continuum</p>
-<p align="center"><img src="./images/equation6.PNG"/></p>
-
+<p align="center"> The Explicit Formula for the Fibonacci Sequence</p>
+<p align="center"><img src="./images/equation9.PNG"/></p>
+<p align="center">where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
+         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">source</a>
 
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
 - 🌱 I’m currently learning **Linear Algebra** 

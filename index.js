@@ -13,8 +13,48 @@ let equations = {
         img: "./images/equation1.gif"
     },
     2: {
-        name: "Cauchy's Integral Formula",
-        img: "./images/equation1.gif"
+        name: "Quadratic Formula",
+        img: "./images/equation2.gif"
+    },
+    3: {
+        name: "Euler’s Identity",
+        img: "./images/equation3.gif"
+    },
+    4: {
+        name: "The Euler Product Formula",
+        img: "./images/equation4.gif"
+    },
+    5: {
+        name: "The Gaussian Integral",
+        img: "./images/equation5.gif"
+    },
+    6: {
+        name: "The Cardinality of the Continuum",
+        img: "./images/equation6.PNG"
+    },
+    7: {
+        name: "The Analytic Continuation of the Factorial",
+        img: "./images/equation7.gif"
+    },
+    8: {
+        name: "The Pythagorean Theorem",
+        img: "./images/equation8.gif"
+    },
+    9: {
+        name: " The Explicit Formula for the Fibonacci Sequence",
+        img: "./images/equation9.PNG"
+    },
+    10: {
+        name: "The Basel Problem",
+        img: "./images/equation10.gif"
+    },
+    11: {
+        name: "The Harmonic Series",
+        img: "./images/equation11.gif"
+    },
+    12: {
+        name: "The Explicit Formula for the Prime Counting Function",
+        img: "./images/equation12.gif"
     }
 };
 

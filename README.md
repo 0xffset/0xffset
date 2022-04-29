@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -14,6 +14,9 @@
   </em> 
   <br>
 </p>
+
+
+
 
 
   ```perl
@@ -44,7 +47,7 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<p align="center">The Gaussian Integral</p>
+<h2 align="center">The Gaussian Integral</h2>
 <p align="center"><img src="./images/equation5.gif"/></p>
 <p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
         It is certainly not obvious at first glance that the area under the curve is the square root of pi.
@@ -54,8 +57,20 @@ my $e = fermat(5);
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
+
+
+## Here's my favorite math stuff so far...
+
+<details>
+  <summary>My favorite integral so far</summary>
+  <ol>
+    <li>
+     <img src="./images/myfavoriteintegralsofar.jpg">
+    </li>
+  </ol>
+</details>

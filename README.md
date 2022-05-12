@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,19 +47,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Analytic Continuation of the Factorial</h2>
-<p align="center"><img src="./images/equation7.gif"/></p>
-<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
-
-        The same integral for n-1 is defined as the gamma function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
+<h2 align="center">Euler’s Identity</h2>
+<p align="center"><img src="./images/equation3.gif"/></p>
+<p>A very famous equation, Euler’s identity relates the seemingly random 
+        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
+        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

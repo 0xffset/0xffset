@@ -57,7 +57,7 @@ my $e = fermat(5);
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

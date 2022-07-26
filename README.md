@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,17 +47,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Harmonic Series</h2>
-<p align="center"><img src="./images/equation11.gif"/></p>
-<p>This is somewhat unintuitive, because it says that if you add a bunch of numbers that keep getting smaller (and eventually become zero), they still reach infinity. Yet if you square all the numbers, it doesn’t add up to infinity (it adds up to pi squared over six). The harmonic series, if you look carefully, is actually just zeta of 1.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Harmonic Series</a>
+<h2 align="center">The Analytic Continuation of the Factorial</h2>
+<p align="center"><img src="./images/equation7.gif"/></p>
+<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
+
+        The same integral for n-1 is defined as the gamma function.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

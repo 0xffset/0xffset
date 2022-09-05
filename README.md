@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,18 +47,21 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
-<p align="center"><img src="./images/equation9.PNG"/></p>
-<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
-         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
+<h2 align="center">The Explicit Formula for the Prime Counting Function</h2>
+<p align="center"><img src="./images/equation12.gif"/></p>
+<p>Here is the significance of this equation, in English:
+
+        Prime numbers are numbers that have no divisors other than 1 and themselves. The primes below 100 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. From this, it is already clear that there is no apparent pattern to the primes: in some runs of numbers you will get a lot of primes, in other runs you will find no primes, and whether a run has a lot of primes or no primes seems to be totally at random.
+        
+        For a very long time, mathematicians have been trying to find a pattern to the prime numbers. The equation above is an explicit function for the number of primes less than or equal to a given number.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Explicit Formula for the Prime Counting Function</a>
 
 
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

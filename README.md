@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,20 +47,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Quadratic Formula</h2>
-<p align="center"><img src="./images/equation2.gif"/></p>
-<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
-        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
-        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
-     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
-> <a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
+<h2 align="center">The Analytic Continuation of the Factorial</h2>
+<p align="center"><img src="./images/equation7.gif"/></p>
+<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
+
+        The same integral for n-1 is defined as the gamma function.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
 
 
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

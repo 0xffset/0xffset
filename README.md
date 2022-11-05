@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,17 +47,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Basel Problem</h2>
-<p align="center"><img src="./images/equation10.gif"/></p>
-<p>This equation says that if you take the reciprocal of all the square numbers, and then add them all together, you get pi squared over six. This was proved by Euler. Notice that this sum is just the function on the left hand side of Equation 2 (the Euler product formula) earlier in this post, with s = 2. That formula is the Riemann zeta function, we can say that zeta of 2 is pi squared over six.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Basel Problem</a>
+<h2 align="center">The Gaussian Integral</h2>
+<p align="center"><img src="./images/equation5.gif"/></p>
+<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
+        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
+        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

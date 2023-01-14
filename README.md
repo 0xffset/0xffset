@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,20 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Euler Product Formula</h2>
-<p align="center"><img src="./images/equation4.gif"/></p>
-<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
-        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
-        we can choose s to be any number greater than 1, and the equation is true.
-        The left side is the common representation of the Riemann zeta function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
+<h2 align="center">The Pythagorean Theorem</h2>
+<p align="center"><img src="./images/equation8.gif"/></p>
+<p>Probably the most familiar equation on this list, the Pythagorean theorem relates the sides of a right triangle, where a and b are the lengths of the legs and c is the length of the hypotenuse. It also relates triangles to squares.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Pythagorean Theorem</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

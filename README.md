@@ -47,19 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Euler’s Identity</h2>
-<p align="center"><img src="./images/equation3.gif"/></p>
-<p>A very famous equation, Euler’s identity relates the seemingly random 
-        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
-        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
+<h2 align="center">The Harmonic Series</h2>
+<p align="center"><img src="./images/equation11.gif"/></p>
+<p>This is somewhat unintuitive, because it says that if you add a bunch of numbers that keep getting smaller (and eventually become zero), they still reach infinity. Yet if you square all the numbers, it doesn’t add up to infinity (it adds up to pi squared over six). The harmonic series, if you look carefully, is actually just zeta of 1.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Harmonic Series</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,20 +47,20 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Euler Product Formula</h2>
-<p align="center"><img src="./images/equation4.gif"/></p>
-<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
-        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
-        we can choose s to be any number greater than 1, and the equation is true.
-        The left side is the common representation of the Riemann zeta function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
+<h2 align="center">Quadratic Formula</h2>
+<p align="center"><img src="./images/equation2.gif"/></p>
+<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
+        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
+        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
+     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
+> <a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,10 +47,13 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Basel Problem</h2>
-<p align="center"><img src="./images/equation10.gif"/></p>
-<p>This equation says that if you take the reciprocal of all the square numbers, and then add them all together, you get pi squared over six. This was proved by Euler. Notice that this sum is just the function on the left hand side of Equation 2 (the Euler product formula) earlier in this post, with s = 2. That formula is the Riemann zeta function, we can say that zeta of 2 is pi squared over six.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Basel Problem</a>
+<h2 align="center">Quadratic Formula</h2>
+<p align="center"><img src="./images/equation2.gif"/></p>
+<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
+        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
+        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
+     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
+> <a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
 
 
 

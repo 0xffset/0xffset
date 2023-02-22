@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,10 +47,13 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Harmonic Series</h2>
-<p align="center"><img src="./images/equation11.gif"/></p>
-<p>This is somewhat unintuitive, because it says that if you add a bunch of numbers that keep getting smaller (and eventually become zero), they still reach infinity. Yet if you square all the numbers, it doesn’t add up to infinity (it adds up to pi squared over six). The harmonic series, if you look carefully, is actually just zeta of 1.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Harmonic Series</a>
+<h2 align="center">The Euler Product Formula</h2>
+<p align="center"><img src="./images/equation4.gif"/></p>
+<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
+        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
+        we can choose s to be any number greater than 1, and the equation is true.
+        The left side is the common representation of the Riemann zeta function.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
 
 
 

@@ -57,7 +57,7 @@ my $e = fermat(5);
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 

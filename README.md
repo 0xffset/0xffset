@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,19 +47,23 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Gaussian Integral</h2>
-<p align="center"><img src="./images/equation5.gif"/></p>
-<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
-        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
-        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
+<h2 align="center">Cauchy's Integral Formula</h2>
+<p align="center"><img src="./images/equation1.gif"/></p>
+<p>Cauchy's integral formula, 
+        named after Augustin-Louis Cauchy, is a central statement in complex analysis. 
+        It expresses the fact that a holomorphic function defined on a disk is completely 
+        determined by its values on the boundary of the disk, and it provides integral 
+        formulas for all derivatives of a holomorphic function. Cauchy's formula shows that, 
+        in complex analysis, "differentiation is equivalent to integration": complex differentiation, like integration,
+         behaves well under uniform limits – a result that does not hold in real analysis. </p>
+> <a href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's Integral Formula</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

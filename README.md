@@ -47,17 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Euler’s Identity</h2>
-<p align="center"><img src="./images/equation3.gif"/></p>
-<p>A very famous equation, Euler’s identity relates the seemingly random 
-        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
-        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
+<h2 align="center">The Gaussian Integral</h2>
+<p align="center"><img src="./images/equation5.gif"/></p>
+<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
+        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
+        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

@@ -47,18 +47,15 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Euler Product Formula</h2>
-<p align="center"><img src="./images/equation4.gif"/></p>
-<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
-        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
-        we can choose s to be any number greater than 1, and the equation is true.
-        The left side is the common representation of the Riemann zeta function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
+<h2 align="center">The Basel Problem</h2>
+<p align="center"><img src="./images/equation10.gif"/></p>
+<p>This equation says that if you take the reciprocal of all the square numbers, and then add them all together, you get pi squared over six. This was proved by Euler. Notice that this sum is just the function on the left hand side of Equation 2 (the Euler product formula) earlier in this post, with s = 2. That formula is the Riemann zeta function, we can say that zeta of 2 is pi squared over six.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Basel Problem</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 

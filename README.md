@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
+<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm rolEYder</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -47,17 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Gaussian Integral</h2>
-<p align="center"><img src="./images/equation5.gif"/></p>
-<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
-        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
-        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
+<h2 align="center">The Cardinality of the Continuum</h2>
+<p align="center"><img src="./images/equation6.PNG"/></p>
+<p>This states that the cardinality of the real numbers is equal to the cardinality of all subsets of natural numbers. This was shown by Georg Cantor, the founder of set theory. It is remarkable in that it states a continuum is not countable, as 2^{N} > N .
+
+        A related statement is the Continuum Hypothesis, which states there is no cardinality between N and R . Interestingly, this statement has a very strange property: it can be neither proved nor disproved.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Cardinality of the Continuum</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 

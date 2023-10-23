@@ -47,17 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Analytic Continuation of the Factorial</h2>
-<p align="center"><img src="./images/equation7.gif"/></p>
-<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
-
-        The same integral for n-1 is defined as the gamma function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
+<h2 align="center">Euler’s Identity</h2>
+<p align="center"><img src="./images/equation3.gif"/></p>
+<p>A very famous equation, Euler’s identity relates the seemingly random 
+        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
+        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
 > *Albert Einstein*
 

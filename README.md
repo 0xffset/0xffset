@@ -47,15 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Pythagorean Theorem</h2>
-<p align="center"><img src="./images/equation8.gif"/></p>
-<p>Probably the most familiar equation on this list, the Pythagorean theorem relates the sides of a right triangle, where a and b are the lengths of the legs and c is the length of the hypotenuse. It also relates triangles to squares.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Pythagorean Theorem</a>
+<h2 align="center">The Analytic Continuation of the Factorial</h2>
+<p align="center"><img src="./images/equation7.gif"/></p>
+<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
+
+        The same integral for n-1 is defined as the gamma function.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

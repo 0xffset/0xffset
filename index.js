@@ -109,7 +109,7 @@ let equations = {
 let greeting = ['Hello', 'Hola', 'Привет', 'Salam']
 let DATA = {
     cheers: greeting[Math.floor(Math.random() * greeting.length)],
-    name: 'rolEYder',
+    name: '0xffset',
     date: new Date().toLocaleDateString('en-GB', {
         weekeday: 'long',
         month: 'long',

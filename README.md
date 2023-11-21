@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-  20y/o Computer science student with interests in branches like Cybersecurity, Quantum Computing, and Mathematics
+  21y/o Computer science student with interests in branches like Cybersecurity, Quantum Computing, and Mathematics
   </em> 
   <br>
 </p>

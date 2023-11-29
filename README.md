@@ -47,17 +47,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Analytic Continuation of the Factorial</h2>
-<p align="center"><img src="./images/equation7.gif"/></p>
-<p>The factorial function is commonly defined as n! = n(n-1)(n-2)…1, but this definition only “works” for positive integers. The integral equation makes factorial work for fractions and decimals as well. And negative numbers, and complex numbers…
+<h2 align="center">The Cardinality of the Continuum</h2>
+<p align="center"><img src="./images/equation6.PNG"/></p>
+<p>This states that the cardinality of the real numbers is equal to the cardinality of all subsets of natural numbers. This was shown by Georg Cantor, the founder of set theory. It is remarkable in that it states a continuum is not countable, as 2^{N} > N .
 
-        The same integral for n-1 is defined as the gamma function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Analytic Continuation of the Factorial</a>
+        A related statement is the Continuum Hypothesis, which states there is no cardinality between N and R . Interestingly, this statement has a very strange property: it can be neither proved nor disproved.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Cardinality of the Continuum</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

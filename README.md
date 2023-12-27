@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-  20y/o Computer science student with interests in branches like Cybersecurity, Quantum Computing, and Mathematics
+  21y/o Computer science student with interests in branches like Cybersecurity, Quantum Computing, and Mathematics.
   </em> 
   <br>
 </p>
@@ -43,7 +43,7 @@ my $e = fermat(5);
 
 ```
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
-- 🌱 I’m currently learning **Linear Algebra** 
+- 🌱 I’m currently learning **Number Theory** 
 - 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 

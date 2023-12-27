@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-  21y/o Computer science student with interests in branches like Cybersecurity, Quantum Computing, and Mathematics.
+  21y/o Computer science student with interests in fields like Cybersecurity, Quantum Computing, and Mathematics.
   </em> 
   <br>
 </p>
@@ -44,7 +44,6 @@ my $e = fermat(5);
 ```
 - 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
 - 🌱 I’m currently learning **Number Theory** 
-- 🌱 I’m currently learning **Mathematical Logic** and **Computational Geometry**
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
 <h2 align="center">Cauchy's Integral Formula</h2>
@@ -61,7 +60,7 @@ my $e = fermat(5);
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

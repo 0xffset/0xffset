@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,18 +46,15 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Quadratic Formula</h2>
-<p align="center"><img src="./images/equation2.gif"/></p>
-<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
-        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
-        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
-     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
-> <a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
+<h2 align="center">The Harmonic Series</h2>
+<p align="center"><img src="./images/equation11.gif"/></p>
+<p>This is somewhat unintuitive, because it says that if you add a bunch of numbers that keep getting smaller (and eventually become zero), they still reach infinity. Yet if you square all the numbers, it doesn’t add up to infinity (it adds up to pi squared over six). The harmonic series, if you look carefully, is actually just zeta of 1.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Harmonic Series</a>
 
 
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

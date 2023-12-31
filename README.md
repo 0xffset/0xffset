@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,15 +46,15 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Pythagorean Theorem</h2>
-<p align="center"><img src="./images/equation8.gif"/></p>
-<p>Probably the most familiar equation on this list, the Pythagorean theorem relates the sides of a right triangle, where a and b are the lengths of the legs and c is the length of the hypotenuse. It also relates triangles to squares.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Pythagorean Theorem</a>
+<h2 align="center">The Basel Problem</h2>
+<p align="center"><img src="./images/equation10.gif"/></p>
+<p>This equation says that if you take the reciprocal of all the square numbers, and then add them all together, you get pi squared over six. This was proved by Euler. Notice that this sum is just the function on the left hand side of Equation 2 (the Euler product formula) earlier in this post, with s = 2. That formula is the Riemann zeta function, we can say that zeta of 2 is pi squared over six.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Basel Problem</a>
 
 
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
 > *Albert Einstein*
 

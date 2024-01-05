@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -54,7 +54,7 @@ my $e = fermat(5);
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 

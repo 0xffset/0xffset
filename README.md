@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,16 +46,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
-<p align="center"><img src="./images/equation9.PNG"/></p>
-<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
-         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
+<h2 align="center">The Cardinality of the Continuum</h2>
+<p align="center"><img src="./images/equation6.PNG"/></p>
+<p>This states that the cardinality of the real numbers is equal to the cardinality of all subsets of natural numbers. This was shown by Georg Cantor, the founder of set theory. It is remarkable in that it states a continuum is not countable, as 2^{N} > N .
+
+        A related statement is the Continuum Hypothesis, which states there is no cardinality between N and R . Interestingly, this statement has a very strange property: it can be neither proved nor disproved.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Cardinality of the Continuum</a>
 
 
 
 ------------
-> Great ideas often receive violent opposition from mediocre minds.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

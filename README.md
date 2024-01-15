@@ -46,18 +46,16 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Euler Product Formula</h2>
-<p align="center"><img src="./images/equation4.gif"/></p>
-<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
-        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
-        we can choose s to be any number greater than 1, and the equation is true.
-        The left side is the common representation of the Riemann zeta function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
+<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
+<p align="center"><img src="./images/equation9.PNG"/></p>
+<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
+         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
 >
 > *Albert Einstein*
 

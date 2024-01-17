@@ -46,18 +46,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
-<p align="center"><img src="./images/equation9.PNG"/></p>
-<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
-         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
+<h2 align="center">The Gaussian Integral</h2>
+<p align="center"><img src="./images/equation5.gif"/></p>
+<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
+        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
+        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Salam <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,23 +46,20 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Cauchy's Integral Formula</h2>
-<p align="center"><img src="./images/equation1.gif"/></p>
-<p>Cauchy's integral formula, 
-        named after Augustin-Louis Cauchy, is a central statement in complex analysis. 
-        It expresses the fact that a holomorphic function defined on a disk is completely 
-        determined by its values on the boundary of the disk, and it provides integral 
-        formulas for all derivatives of a holomorphic function. Cauchy's formula shows that, 
-        in complex analysis, "differentiation is equivalent to integration": complex differentiation, like integration,
-         behaves well under uniform limits – a result that does not hold in real analysis. </p>
-> <a href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's Integral Formula</a>
+<h2 align="center">Quadratic Formula</h2>
+<p align="center"><img src="./images/equation2.gif"/></p>
+<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
+        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
+        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
+     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
+> <a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

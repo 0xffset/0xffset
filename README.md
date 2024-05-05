@@ -46,19 +46,23 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">Euler’s Identity</h2>
-<p align="center"><img src="./images/equation3.gif"/></p>
-<p>A very famous equation, Euler’s identity relates the seemingly random 
-        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
-        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
+<h2 align="center">Cauchy's Integral Formula</h2>
+<p align="center"><img src="./images/equation1.gif"/></p>
+<p>Cauchy's integral formula, 
+        named after Augustin-Louis Cauchy, is a central statement in complex analysis. 
+        It expresses the fact that a holomorphic function defined on a disk is completely 
+        determined by its values on the boundary of the disk, and it provides integral 
+        formulas for all derivatives of a holomorphic function. Cauchy's formula shows that, 
+        in complex analysis, "differentiation is equivalent to integration": complex differentiation, like integration,
+         behaves well under uniform limits – a result that does not hold in real analysis. </p>
+> <a href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's Integral Formula</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

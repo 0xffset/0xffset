@@ -46,18 +46,17 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
-<p align="center"><img src="./images/equation9.PNG"/></p>
-<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
-         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
+<h2 align="center">The Basel Problem</h2>
+<p align="center"><img src="./images/equation10.gif"/></p>
+<p>This equation says that if you take the reciprocal of all the square numbers, and then add them all together, you get pi squared over six. This was proved by Euler. Notice that this sum is just the function on the left hand side of Equation 2 (the Euler product formula) earlier in this post, with s = 2. That formula is the Riemann zeta function, we can say that zeta of 2 is pi squared over six.</p>
+> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Basel Problem</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

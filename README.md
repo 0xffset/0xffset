@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,14 +46,16 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Explicit Formula for the Prime Counting Function</h2>
-<p align="center"><img src="./images/equation12.gif"/></p>
-<p>Here is the significance of this equation, in English:
-
-        Prime numbers are numbers that have no divisors other than 1 and themselves. The primes below 100 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. From this, it is already clear that there is no apparent pattern to the primes: in some runs of numbers you will get a lot of primes, in other runs you will find no primes, and whether a run has a lot of primes or no primes seems to be totally at random.
-        
-        For a very long time, mathematicians have been trying to find a pattern to the prime numbers. The equation above is an explicit function for the number of primes less than or equal to a given number.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Explicit Formula for the Prime Counting Function</a>
+<h2 align="center">Cauchy's Integral Formula</h2>
+<p align="center"><img src="./images/equation1.gif"/></p>
+<p>Cauchy's integral formula, 
+        named after Augustin-Louis Cauchy, is a central statement in complex analysis. 
+        It expresses the fact that a holomorphic function defined on a disk is completely 
+        determined by its values on the boundary of the disk, and it provides integral 
+        formulas for all derivatives of a holomorphic function. Cauchy's formula shows that, 
+        in complex analysis, "differentiation is equivalent to integration": complex differentiation, like integration,
+         behaves well under uniform limits – a result that does not hold in real analysis. </p>
+> <a href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's Integral Formula</a>
 
 
 

@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,20 +46,23 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Number Theory** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
 
-<h2 align="center">The Euler Product Formula</h2>
-<p align="center"><img src="./images/equation4.gif"/></p>
-<p>The symbol on the left is an infinite sum, while the one on the right is an infinite product. 
-        Theorized by Leonhard Euler once again, this equation relates the natural numbers (n = 1, 2, 3, 4, 5, etc.) on the left side to the prime numbers (p = 2, 3, 5, 7, 11, etc.) on the right side. Moreover, 
-        we can choose s to be any number greater than 1, and the equation is true.
-        The left side is the common representation of the Riemann zeta function.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Euler Product Formula</a>
+<h2 align="center">Cauchy's Integral Formula</h2>
+<p align="center"><img src="./images/equation1.gif"/></p>
+<p>Cauchy's integral formula, 
+        named after Augustin-Louis Cauchy, is a central statement in complex analysis. 
+        It expresses the fact that a holomorphic function defined on a disk is completely 
+        determined by its values on the boundary of the disk, and it provides integral 
+        formulas for all derivatives of a holomorphic function. Cauchy's formula shows that, 
+        in complex analysis, "differentiation is equivalent to integration": complex differentiation, like integration,
+         behaves well under uniform limits – a result that does not hold in real analysis. </p>
+> <a href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's Integral Formula</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

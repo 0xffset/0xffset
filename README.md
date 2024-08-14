@@ -56,9 +56,9 @@ my $e = fermat(5);
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

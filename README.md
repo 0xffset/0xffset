@@ -1,8 +1,8 @@
 
 
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
-<h3 align="center">Computer Student Student | Linux | Quantum Computing | Mathematics</h3>
+<h3 align="center">Software Developer | Data Scientist | Linux | Quantum Computing | Mathematics</h3>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogger-garc%C3%ADa-d%C3%ADaz-5100a41b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rolEYder" height="30" width="40" /></a>
@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-  21y/o Computer science student with interests in fields like Cybersecurity, Quantum Computing, and Mathematics.
+  22y/o Software Developer and Data Scientist with interests in fields like Cybersecurity, Quantum Computing, and Mathematics.
   </em> 
   <br>
 </p>
@@ -42,23 +42,23 @@ my $e = fermat(5);
 
 
 ```
-- 🔭 Bachelor's degree in **Computer Science**  and **Mathematics**
-- 🌱 I’m currently learning **Number Theory** 
-- ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`
+- 🔭 Bachelor's degree in **Computer Science**
+- 🌱 I’m currently learning **Topology** 
+- ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`, `.rs`, `.sql`, `.sh`
 
-<h2 align="center">The Cardinality of the Continuum</h2>
-<p align="center"><img src="./images/equation6.PNG"/></p>
-<p>This states that the cardinality of the real numbers is equal to the cardinality of all subsets of natural numbers. This was shown by Georg Cantor, the founder of set theory. It is remarkable in that it states a continuum is not countable, as 2^{N} > N .
-
-        A related statement is the Continuum Hypothesis, which states there is no cardinality between N and R . Interestingly, this statement has a very strange property: it can be neither proved nor disproved.</p>
-> <a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Cardinality of the Continuum</a>
+<h2 align="center">The Gaussian Integral</h2>
+<p align="center"><img src="./images/equation5.gif"/></p>
+<p>The function e^{-x^2} in itself is a very ugly function to integrate, but when done across the entire real line, i.e. from minus infinity to infinity, it gives a bizarrely clean answer. 
+        It is certainly not obvious at first glance that the area under the curve is the square root of pi.
+        This formula is of extreme importance in statistics, as it represents the normal distribution.</p>
+<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Gaussian Integral</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

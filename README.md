@@ -46,21 +46,19 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Computational Methods** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`, `.rs`, `.sql`, `.sh`
 
-<h2 align="center">The Explicit Formula for the Prime Counting Function</h2>
-<p align="center"><img src="./images/equation12.gif"/></p>
-<p>Here is the significance of this equation, in English:
-
-        Prime numbers are numbers that have no divisors other than 1 and themselves. The primes below 100 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. From this, it is already clear that there is no apparent pattern to the primes: in some runs of numbers you will get a lot of primes, in other runs you will find no primes, and whether a run has a lot of primes or no primes seems to be totally at random.
-        
-        For a very long time, mathematicians have been trying to find a pattern to the prime numbers. The equation above is an explicit function for the number of primes less than or equal to a given number.</p>
-<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">The Explicit Formula for the Prime Counting Function</a>
+<h2 align="center">Euler’s Identity</h2>
+<p align="center"><img src="./images/equation3.gif"/></p>
+<p>A very famous equation, Euler’s identity relates the seemingly random 
+        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
+        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
+<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+> It is through science that we prove, but through intuition that we discover.
 >
-> *Albert Einstein*
+> *Henri Poincaré*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

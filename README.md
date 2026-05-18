@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Software Developer | Data Scientist | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,19 +46,20 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Computational Methods** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`, `.rs`, `.sql`, `.sh`
 
-<h2 align="center">Euler’s Identity</h2>
-<p align="center"><img src="./images/equation3.gif"/></p>
-<p>A very famous equation, Euler’s identity relates the seemingly random 
-        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
-        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
-<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
+<h2 align="center">Quadratic Formula</h2>
+<p align="center"><img src="./images/equation2.gif"/></p>
+<p>In algebra, a quadratic equation (from Latin quadratus 'square') 
+        is any equation that can be rearranged in standard form as a x 2 + b x + c = 0 
+        where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no a x 2 {displaystyle ax^{2}} ax^2 term. The numbers a, b, and c are the coefficients of the equation and may be distinguished by calling them, respectively,
+     the quadratic coefficient, the linear coefficient and the constant or free term.</p>
+<a href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic Formula</a>
 
 
 
 ------------
-> It is through science that we prove, but through intuition that we discover.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> *Henri Poincaré*
+> *Albert Einstein*
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 

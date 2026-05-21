@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
 <h3 align="center">Software Developer | Data Scientist | Linux | Quantum Computing | Mathematics</h3>
 </p>
@@ -46,17 +46,16 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Computational Methods** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`, `.rs`, `.sql`, `.sh`
 
-<h2 align="center">Euler’s Identity</h2>
-<p align="center"><img src="./images/equation3.gif"/></p>
-<p>A very famous equation, Euler’s identity relates the seemingly random 
-        values of pi, e, and the square root of -1. It is considered by many to be the most beautiful equation in mathematics. A more general formula is e^(ix) = cos(x)+isin(x)
-        When x = π , the value of cos x is -1, while isin x is 0, resulting in Euler’s identity, as -1 + 1 = 0. </p>
-<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/">Euler’s Identity</a>
+<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
+<p align="center"><img src="./images/equation9.PNG"/></p>
+<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
+         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
+<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
 
 
 
 ------------
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Great ideas often receive violent opposition from mediocre minds.
 >
 > *Albert Einstein*
 

@@ -1,8 +1,10 @@
 
 
-<h1 align="center"> Привет <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
+
+
+<h1 align="center">  <img src="https://raw.githubusercontent.com/RolEYder/RolEYder/master/Hello!.gif" width="30px">, I'm 0xffset</h1>
 <p align="center">
-<h3 align="center">Software Developer | Data Scientist | Linux | Quantum Computing | Mathematics</h3>
+<h3 align="center">Software Developer | Data Scientist | Linux | Quantum Computing | Mathematics | Electronics</h3>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rogger-garc%C3%ADa-d%C3%ADaz-5100a41b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rolEYder" height="30" width="40" /></a>
@@ -10,7 +12,7 @@
 </p>
 <p align="center">
   <em>
-  23y/o Software Developer and Data Scientist with interests in fields like Cybersecurity, Quantum Computing, and Mathematics.
+  24y/o Software Developer and Data Scientist with interests in fields like Cybersecurity, Quantum Computing, and Mathematics.
   </em> 
   <br>
 </p>
@@ -46,18 +48,30 @@ my $e = fermat(5);
 - 🌱 I’m currently learning **Computational Methods** 
 - ⚙️ Mastering: `.py`, `.cpp`, `.c`, `.perl`, `.java`, `.html`, `.css`  `.s`, `.sh`, `.go`, `.rs`, `.sql`, `.sh`
 
-<h2 align="center"> The Explicit Formula for the Fibonacci Sequence</h2>
-<p align="center"><img src="./images/equation9.PNG"/></p>
-<p>where φ = rac{1 + sqrt{5}}{2} (note that this number is the Golden Ratio). While many people are familiar with the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, etc., where each number is the sum of the previous two numbers), few know there is a formula to figure out any given Fibonacci number: the formula that we have above, where F(n) is the nth Fibonacci number.
-         That is, to find the 100th Fibonacci number, you don’t have to calculate the first 99 numbers. You can just throw 100 into the formula.</p>
-<a href="https://nargaque.com/2011/10/05/10-mind-blowing-mathematical-equations/"> The Explicit Formula for the Fibonacci Sequence</a>
+<h2 align="center"></h2>
+<p align="center"><img src=""/></p>
+<p></p>
+<a href=""></a>
 
 
 
 ------------
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
->
-> *Albert Einstein*
+# Random Erdős Problem
+
+Problem #31
+
+Given any infinite set $A\subset \mathbb{N}$ there is a set $B$ of density $0$ such that $A+B$ contains all except finitely many integers.
+
+Conjectured by Erd\H{o}s and Straus. Proved by Lorentz \cite{Lo54}.
+
+
+---
+
+🔗 Source: https://www.erdosproblems.com/latex/31
+
+_Last updated: 2026-06-08T19:01:35.880Z_
+
+
 
 <a align="center"><img src="https://github.com/RolEYder/RolEYder/actions/workflows/main.yaml/badge.svg" /></p>
 
